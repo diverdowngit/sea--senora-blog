@@ -1,25 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+// import Layout from './modules/components/Layout/Layout';
+// import Hero from './modules/pages/Home/components/Hero/Hero';
+// function App() {
+//   return (
+//   <Layout>
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// <Hero img="/img/heroimage.jpg" centerText="Welcome to SV Sea Senora " location="WorldWide."font-family=" 'Luminari', sans-serif;"/>
+//   </Layout>
+//   );
+// }
 
-export default App;
+// export default App;
